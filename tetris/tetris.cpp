@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <windows.h>//console window
 #include <conio.h>//console and port I/O
-#include <time.h> 
+#include <time.h> //srand
 
 clock_t startDropT, endT, startGroundT;
 int x = 8, y = 0;
